@@ -3,7 +3,6 @@ import random
 import os
 import pandas as pd
 from twilio.rest import Client
-word_dict = {}
 word_list = []
 count = 0
 
